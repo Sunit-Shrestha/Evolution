@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 neat-python = "^0.92"
 matplotlib = "^3.9.0"
+pyqt6 = "^6.7.0"
 
 
 [build-system]
