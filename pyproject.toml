@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "evolution"
+version = "0.1.0"
+description = ""
+authors = ["Sunit Shrestha <sunitshrsth@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+neat-python = "^0.92"
+matplotlib = "^3.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
